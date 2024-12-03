@@ -1,0 +1,1784 @@
+@media screen and (max-width: 1272px) {
+    .data-head {
+        width: 980px;
+    }
+    .logo-elementor {
+        width: 28%;
+    }
+    .link-container {
+        width: 47%;
+    }
+    .why-head {
+        font-size: 46px;
+    }
+    .h-who-we-are {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .ab-left-elementor {
+        padding-left: 15px;
+    }
+    .ab-hero-img {
+        height: 620px;
+    }
+}
+
+@media screen and (max-width: 1150px) {
+    .main-head {
+        font-size: 62px;
+    }
+    .heding-elementor {
+        width: 1000px;
+    }
+    .heding-elementor p {
+        padding: 0 25px;
+    }
+    .s-box-elementor {
+        width: 1000px;
+    }
+    .srv-container {
+        height: 550px;
+    }
+    .spc-widget-img {
+        width: 24vw;
+        height: 380px;
+    }
+    .spc-widget-img2 {
+        width: 24vw;
+        height: 380px;
+    }
+    .spc-widget-img3 {
+        width: 24vw;
+        height: 380px;
+    }
+    .service-pg-card {
+        padding-left: 5px;
+    }
+}
+
+@media screen and (max-width: 1135px) {
+    .flex-about {
+        display: block;
+    }
+    .left-elementor {
+        width: 100%;
+    }
+    .right-elementor {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .content-elementor {
+        margin: 0 auto;
+        width: 100%;
+        max-width: 900px;
+    } 
+    .img-flx-el {
+        width: 100%;
+        max-width: 900px;
+        margin: 0 auto;
+        justify-content: center;
+    }
+    .services-elementor {
+        padding-bottom: 40px;
+    }
+    .slider-container {
+        width: 900px;
+    }
+    .rel-img1 {
+        display: flex;
+    }
+    .slider-img {
+        min-width: 50%;
+        border-radius: 8px;
+    }
+    .slider-images {
+        gap: 18px;
+    }
+}
+
+@media screen and (max-width: 1075px) {
+    .a-wwa {
+        font-size: 14px;
+        margin-bottom: 3px;
+    }
+    .a-right-head {
+        font-size: 42px;
+        padding-top: 0;
+        margin-bottom: 5px;
+    }
+    .a-right-para1 {
+        font-size: 18px;
+        padding-top: 8px;
+    }
+    .a-right-para2 {
+        font-size: 15px;
+        padding-top: 8px;
+    }
+    .a-right-head2 {
+        font-size: 28px;
+        padding-top: 8px;
+    }
+    .a-right-para3 {
+        font-size: 15px;
+        padding-top: 8px;
+    }
+    .s-body-head1 {
+        font-size: 45px;
+    }
+    .s-hservices {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 1050px) {
+    .image-elementor {
+        gap: 25px;
+        padding: 30px 135px;
+    }
+    .gallery-img {
+        flex-basis: 2;
+    }
+    .ft-flex-elementor {
+        flex-wrap: wrap;
+        padding: 0 40px;
+        gap: 50px;
+    }
+    .info-ft {
+        width: 28%;
+    }
+    .info-ft-el4  {
+        width: 100%;
+    }
+    .ab-hero-img {
+        height: 550px;
+    }
+    .ab-right-inn {
+        padding-right: 25px;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .heding-elementor {
+        width: 800px;
+    }
+    .main-head {
+        font-size: 55px;
+    }
+    .hero-section {
+        height: 750px;
+    }
+    .s-box-elementor {
+        width: 90%;
+    }
+    .srv-container {
+        height: 100%;
+        width: 45%;
+    }
+    .srv-flex {
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+}
+
+@media screen and (max-width: 985px) {
+    .link-container {
+        display: none;
+    }
+    .logo-elementor {
+        width: 75%;
+    }
+    .data-head {
+        width: 100%;
+    }
+    .tel-button {
+        text-align: center;
+        padding: 8px 14px;
+    }
+    .menu-element {
+        width: 10%;
+        padding: 0 0 0 5px;
+    }
+    #menu-icon {
+        display: flex;
+        font-size: 40px;
+    }
+    .nav-elementor {
+        display: block;
+    }
+    .a-right-head {
+        font-size: 40px;
+    }
+    .slider-container {
+        width: 800px;
+        height: 550px;
+    }
+    .slider-images {
+        gap: 10px;
+    }
+}
+
+@media screen and (max-width: 950px) {
+    .s-cont-flex {
+        gap: 20px;
+    }
+    .s-cont-flex-2 {
+        gap: 25px;
+        padding-top: 25px;
+    }
+    .ab-bd-flx {
+        display: block;
+    }
+    .ab-left-elementor {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-left: 0;
+    }
+    .ab-right-elementor {
+        width: 100%;
+    }
+    .ab-body-elementor {
+        padding: 45px 0;
+        padding-bottom: 0;
+        max-height: 100%;
+    }
+    .ab-hero-img {
+        width: 540px;
+    }
+    .ab-right-inn {
+        padding: 50px 25px 15px 25px;
+    }
+    .a-main-head {
+        font-size: 52px;
+    }
+    .s-card-head {
+        font-size: 32px;
+    }
+    .s-card-para {
+        font-size: 16px;
+        padding-top: 15px;
+    }
+    .srv-card-list {
+        padding: 10px 15px;
+    }
+}
+
+@media screen and (max-width: 920px) {
+    .image-elementor {
+        padding: 30px 60px;
+    }
+}
+
+@media screen and (max-width: 890px) {
+    .service-container {
+        width: 330px;
+        padding: 25px 15px;
+    }
+    .sc-2 {
+        width: 300px;
+    }
+    .sc-widget {
+        padding: 8px 10px;
+    }
+    .sc-widget i {
+        font-size: 40px;
+    }
+    .sc-widget-tr {
+        padding: 14px;
+    }
+    .sc-widget-tr i {
+        font-size: 30px;
+    }
+    .sc-head {
+        font-size: 28px;
+        padding-top: 20px;
+    }
+    .sc-para {
+        font-size: 16px;
+        padding-top: 8px;
+    }
+    .h-offer {
+        font-size: 42px;
+    }
+    .h-services {
+        font-size: 16px;
+    }
+    .exp-btn-el {
+        display: flex;
+        padding-top: 20px;
+    }
+    .area-p {
+        font-size: 34px;
+    }
+    .h-working {
+        font-size: 19px;
+    }
+    .h-touch {
+        font-size: 52px;
+        letter-spacing: 1px;
+    }
+}
+
+@media screen and (max-width: 857px) {
+    .logo-elementor {
+        width: 72%;
+    }
+    .h-customers {
+        font-size: 48px;
+        padding: 0 40px;
+    }
+    .h-testimonial {
+        font-size: 16px;
+    }
+    .ft-flex-elementor {
+        gap: 25px;
+    }
+    .info-ft {
+        width: 45%;
+    }
+    .info-ft-el4 {
+        width: 45%;
+    }
+    .logo-info-ft {
+        width: 140px;
+        margin-bottom: 15px;
+    }
+    .info-ft-hs {
+        font-size: 25px;
+    }
+    .ft-link-ul {
+        padding: 0;
+    }
+    .ft-link-li a {
+        font-size: 15px;
+    }
+    .info-ft-contact p {
+        font-size: 15px;
+    }
+    .flw-ft-p {
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 850px) {
+    .h-help {
+        font-size: 37px;
+    }
+    .p-hotline {
+        font-size: 17px;
+    }
+    .prc-flx {
+        flex-wrap: wrap;
+    }
+    .img-flx-el {
+        gap: 10px;
+    }
+    .pc-1 {
+        width: 45%;
+    }
+    .pc-2 {
+        width: 45%;
+    }
+    .pc-3 {
+        width: 100%;
+    }
+    .spc-inn {
+        display: block;
+    }
+    .spc-widget-el {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .spc-content-el {
+        width: 100%;
+    }
+    .spc-widget-img {
+        width: 400px;
+        height: 450px;
+    }
+    .spc-widget-img2 {
+        width: 400px;
+        height: 450px;
+    }
+    .spc-widget-img3 {
+        width: 400px;
+        height: 450px;
+    }
+    .srv-cards-body-elementor {
+        background: var(--White);
+    }
+    .service-pg-card {
+        background: var(--Sec-light-grey);
+        padding: 35px 0;
+    }
+    .s-crd1 {
+        margin-top: 0;
+    }
+    .spc-content-el {
+        text-align: center;
+        padding: 20px 10px;
+    }
+    .s-card-para {
+        padding-top: 8px;
+        line-height: 1.6;
+    }
+    .s-body-head1 {
+        font-size: 40px;
+    }
+    .srv-body-top {
+        padding-bottom: 20px;
+    }
+    .services-body-elementor {
+        padding-top: 60px;
+    }
+    .spc-widget-el {
+        padding-left: 0;
+    }
+    .spc-widget-img3 {
+        padding-left: 0;
+    }
+    .srv-card-list {
+        padding: 10px 0;
+    }
+    .slider-container {
+        width: 700px;
+        height: 520px;
+    }
+}
+
+@media screen and (max-width: 802px) {
+    .heding-elementor {
+        width: 620px;
+    }
+    .main-head {
+        font-size: 48px;
+    }
+    .heding-elementor p {
+        font-size: 18px;
+        padding: 0 15px;
+    }
+    .main-para {
+        margin-top: 32px;
+    }
+    .right-elementor {
+        display: block;
+        padding-top: 30px;
+    }
+    .img-flx-el {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .h-gallery {
+        font-size: 45px;
+    }
+    .s-cont-flex {
+        display: block;
+        padding: 42px 40px 0;
+    }
+    .s-cont-flex-2 {
+        display: block;
+        padding-top: 0;
+        padding: 0 40px;
+    }
+    .service-container {
+        width: 100%;
+        margin-top: 25px;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
+    .sc-para {
+        text-align: left;
+    }
+    .sc-widget {
+        background: var(--Sec-Accent-red);
+        color: var(--White);
+        padding: 8px 12px;
+        border-radius: 6px;
+    }
+    .sc-widget-tr {
+        background: var(--Sec-Accent-red);
+        color: var(--White);
+        padding: 14px 16px;
+        border-radius: 6px;
+    }
+    .sc-widget i {
+        font-size: 45px;
+    }
+    .sc-widget-tr i {
+        font-size: 35px;
+    }
+    .sc-head {
+        font-size: 30px;
+    }.sc-para {
+        font-size: 17px;
+    }
+    .flex-about {
+        padding: 20px 10px;
+    }
+    .copyright-line {
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width: 788px) {
+    .logo-elementor {
+        width: 65%;
+    }
+    .logo {
+        width: 155px;
+        height: 55px;
+    }
+    .h-help {
+        font-size: 30px;
+    }
+    .p-hotline {
+        font-size: 15px;
+    }
+    .emergency-el {
+        padding: 0 40px;
+    }
+}
+
+@media screen and (max-width: 750px) {
+    .s-box-elementor {
+        margin: 4% 18px;
+    }
+    .h-touch {
+        font-size: 45px;
+    }
+
+}
+
+@media screen and (max-width: 730px) {
+    .flex-top-bar {
+        flex-wrap: wrap;
+    }
+    .h-customers {
+        font-size: 40px;
+    }
+    .h-testimonial {
+        font-size: 15px;
+    }
+    .swiper {
+        margin-top: 40px;
+    }
+    .form-n-p-e {
+        display: block;
+    }
+    .f-name {
+        width: 100%;
+    }
+    .f-phone {
+        width: 100%;
+        margin-top: 28px;
+    }
+    .f-email {
+        width: 100%;
+        margin-top: 28px;
+    }
+    .name-input {
+        width: 100%;
+    }
+    .phone-input {
+        width: 100%;
+    }
+    .email-input {
+        width: 100%;
+    }
+    .form-l-r {
+        display: block;
+    }
+    .f-location {
+        width: 100%;
+    }
+    .f-recovery {
+        width: 100%;
+        margin-top: 28px;
+    }
+    .location-input {
+        width: 100%;
+    }
+    #recovery {
+        width: 100%;
+    }
+    .form-d-v {
+        display: block;
+    }
+    .f-delivery {
+        width: 100%;
+    }
+    .f-vehicle {
+        width: 100%;
+        margin-top: 28px;
+    }
+    .delivery-input {
+        width: 100%;
+    }
+    .vehicle-input {
+        width: 100%;
+    }
+    .form-text-area textarea {
+        width: 100%;
+    }
+    .f-qtbtn-el {
+        justify-content: none;
+        align-items: none;
+    }
+    .quote-btn {
+        display: flex;
+    }
+    .a-main-head {
+        font-size: 45px;
+    }
+    .slider-container {
+        width: 600px;
+    }
+}
+
+@media screen and (max-width: 715px) {
+    .area-p {
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width: 690px) {
+    .s-body-head1 {
+        font-size: 35px;
+    }
+}
+
+@media screen and (max-width: 670px) {
+    .s-box-elementor {
+        margin: 10px 15px;
+    }
+    .srv-container {
+        width: 100%;
+    }
+    .srv-widget-elementor {
+        height: 60px;
+    }
+    .srv-element-head {
+        margin: 20px 0 0 0;
+    }
+    .s-box-elementor {
+        padding-top: 15px;
+    }
+    .block-img {
+        width: 540px;
+        height: 460px;
+        margin-top: 23px;
+    }
+    .why-head {
+        font-size: 43px;
+        padding-top: 0;
+    }
+    .about-p {
+        padding-top: 5px;
+    }
+    .left-ul {
+        padding-top: 5px;
+    }
+    .image-elementor {
+        padding: 30px 20px;
+    }
+    .pr-head2 {
+        font-size: 25px;
+    }
+    .h-process {
+        font-size: 18px;
+    }
+    .h-process i {
+        font-size: 23px;
+    }
+    .s-card-para {
+        padding-top: 5px;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .slider-btn {
+        display: flex;
+    }
+    .slider-images {
+        gap: 0;
+    }
+    .slider-img {
+        min-width: 100%;
+        height: 100%;
+    }
+    .slider-container {
+        width: 400px;
+        height: 550px;
+    }
+}
+
+@media screen and (max-width: 635px) {
+    .why-head {
+        font-size: 30px;
+    }
+    .about-p {
+        font-size: 15px;
+        margin-bottom: 7px;
+    }
+    .kp-li span {
+        font-size: 15px;
+
+    }
+    .kp-li i {
+        font-size: 15px;
+    }
+    .kp-li {
+        padding-bottom: 10px;
+    }
+    .about-us-elementor {
+        padding: 35px 0;
+    }
+    .services-elementor {
+        padding-bottom: 30px;
+    }
+    .a-main-head {
+        font-size: 40px;
+    }
+    .spc-widget-img {
+        width: 380px;
+        height: 420px;
+    }
+    .spc-widget-img2 {
+        width: 380px;
+        height: 420px;
+    }
+    .spc-widget-img3 {
+        width: 380px;
+        height: 420px;
+    }
+}
+
+@media screen and (max-width: 630px) {
+    .logo-elementor {
+        width: 62%;
+    }
+    .top-element {
+        padding: 0 20px;
+    }
+    .flex-top-bar {
+        padding: 5px 15px;
+    }
+    .h-who-we-are {
+        font-size: 13px;
+    }
+    .left-elementor {
+        padding: 0 15px;
+    }
+}
+
+@media screen and (max-width: 622px) {
+    .heding-elementor {
+        width: 100%;
+    }
+    .main-head {
+        font-size: 40px;
+    }
+    .heding-elementor p {
+        font-size: 17px;
+    }
+    .hero-section {
+        height: 700px;
+    }
+    .h-offer {
+        font-size: 38px;
+    }
+    .h-services {
+        font-size: 14px;
+    }
+    .a-wwa {
+        font-size: 12px;
+    }
+    .a-right-head {
+        font-size: 34px;
+    }
+    .a-right-head2 {
+        font-size: 25px;
+    }
+    .a-right-para1 {
+        font-size: 16px;
+        margin-bottom: 12px;
+    }
+    .a-right-para2 {
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+    .a-right-para3 {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 590px) {
+    .image-elementor {
+        padding: 30px 8px;
+        gap: 15px;
+    }
+    .h-help {
+        font-size: 26px;
+    }
+    .p-hotline {
+        font-size: 14px;
+    }
+    .sc-widget {
+        padding: 6px 8px;
+    }
+    .sc-widget-tr {
+        padding: 12px;
+    }
+    .sc-widget i {
+        font-size: 35px;
+    }
+    .sc-widget-tr i {
+        font-size: 25px;
+    }
+    .services-elementor {
+        padding-top: 52px;
+    }
+    .flex-about {
+        padding-top: 0;
+    }
+    .h-touch {
+        font-size: 40px;
+    }
+    .h-contact {
+        font-size: 15px;
+    }
+    .ab-hero-img {
+        width: 480px;
+    }
+    .ab-left-elementor {
+        padding-top: 0;
+    }
+    .ab-body-elementor {
+        padding-top: 35px;
+    }
+}
+
+@media screen and (max-width: 574px) {
+    .left-elementor {
+        padding: 0 15px;
+    }
+    .area-p {
+        font-size: 26px;
+        font-weight: 600;
+        letter-spacing: 1.3px;
+    }
+    .h-working {
+        font-size: 17px;
+    }
+    .info-ft {
+        width: 100%;
+    }
+    .info-ft-el4 {
+        width: 100%;
+    }
+    .ft-flex-elementor {
+        gap: 15px;
+        padding: 0 15px;
+    }
+    .footer {
+        padding: 50px 0;
+        padding-bottom: 0;
+    }
+    .logo-info-ft {
+        width: 120px;
+        margin-bottom: 10px;
+    }
+    .info-ft-contact p {
+        font-size: 14px;
+    }
+    .info-ft-hs {
+        font-size: 23px;
+    }
+    .ft-link-li a {
+        font-size: 13px;
+    }
+    .flw-ft-p {
+        font-size: 13px;
+    }
+    .social-links-ft i {
+        font-size: 14px;
+    }
+    .social-links-ft {
+        justify-content: flex-start;
+    }
+    .slider-container {
+        width: 350px;
+        height: 500px;
+    }
+}
+
+@media screen and (max-width: 563px) {
+    .tel-button {
+        display: none;
+    }
+    .logo-elementor {
+        width: 90%;
+    }
+    .srv-element-para {
+        padding-top: 25px;
+    }
+    .srv-widget-elementor {
+        font-size: 68px;
+    }
+    .flex-top-bar {
+        justify-content: center;
+        width: 100%;
+    }
+    .contact-email-elementor {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .social-links {
+        padding-top: 10px;
+    }
+    .h-customers {
+        font-size: 32px;
+    }
+    .h-testimonial {
+        font-size: 13px;
+    }
+    .name-el {
+        font-size: 21px;
+    }
+    .feedback-para {
+        font-size: 14px;
+    }
+    .swiper {
+        margin-top: 30px;
+    }
+    .card-swiper {
+        margin: 0 50px 30px;
+    }
+    .c-card {
+        padding: 0 15px;
+    }
+    .swiper-slide-button {
+        display: none;
+    }
+    .card-swiper {
+        margin: 0 5px 0;
+    }
+    .c-card {
+        height: 220px;
+    }
+    .testimonial-elementor {
+        padding-bottom: 0;
+    }
+    .tst-inn-el {
+        padding-bottom: 10px;
+    }
+    .call-now-btn {
+        font-size: 16px;
+        padding: 9px 14px;
+    }
+    .call-now-btn i {
+        font-size: 17px;
+    }
+    .h-services {
+        font-size: 12px;
+    }
+    .h-offer {
+        font-size: 32px;
+    }
+    .s-cont-flex {
+        padding-top: 10px;
+    }
+    .quote-btn {
+        font-size: 15px;
+        padding: 7px 13px;
+    }
+    .ft-link-li {
+        padding-top: 12px;
+    }
+    .a-right-head {
+        font-size: 30px;
+        margin-top: 5px;
+    }
+    .ab-right-inn {
+        padding-left: 20px;
+    }
+    .a-right-head2 {
+        font-size: 23px;
+        padding-top: 0;
+    }
+    .a-right-para3 {
+        padding-top: 4px;
+    }
+    .s-card-head {
+        font-size: 30px;
+        margin-bottom: 5px;
+    }
+    .s-card-para {
+        font-size: 14px;
+        padding-bottom: 15px;
+    }
+    .cnt-now-btn {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 520px) {
+    .main-head {
+        font-size: 34px;
+    }
+    .heding-elementor p {
+        padding: 0 30px;
+    }
+    .block-el-imgs {
+        padding: 0 10px;
+    }
+    .emergency-el {
+        padding: 0 20px;
+    }
+    .sc-head {
+        font-size: 25px;
+    }
+    .pc-1 {
+        width: 100%;
+    }
+    .pc-2 {
+        width: 100%;
+    }
+    .h-touch {
+        font-size: 37px;
+    }
+    .fw-1 {
+        right: 17px;
+        bottom: 142px;
+    }
+    .fw-2 {
+        right: 17px;
+        bottom: 210px;
+    }
+    .fw-3 {
+        right: 17px;
+        bottom: 80px;
+    }
+    .fw-4 {
+        right: 17px;
+        bottom: 20px;
+    }
+    .fw-1 i {
+        font-size: 35px;
+    }
+    .fw-2 i {
+        font-size: 23px;
+    }
+    .fw-3 i {
+        font-size: 23px;
+    }
+    .fw-4 i {
+        font-size: 23px;
+    }
+    .ab-hero-img {
+        width: 440px;
+        height: 520px;
+    }
+    .a-main-head {
+        font-size: 37px;
+    }
+    .a-hero-section {
+        padding: 60px 0;
+    }
+}
+
+@media screen and (max-width: 475px) {
+    .top-element {
+        font-size: 15px;
+    }
+    .sc-para {
+        font-size: 15px;
+    }
+    .sc-head {
+        font-size: 24px;
+    }
+    .img-flx-el {
+        flex-wrap: wrap;
+        gap: 15px;
+    }
+    .srv-more-btn {
+        font-size: 16px;
+    }
+    .sc-para {
+        margin-bottom: 8px;
+    }
+    .a-right-head {
+        font-size: 26px;
+    }
+    .a-wwa {
+        font-size: 11px;
+    }
+    .ab-right-inn {
+        padding-left: 15px;
+        padding-top: 35px;
+    }
+    .a-right-para1 {
+        font-size: 14px;
+        letter-spacing: .3px;
+        margin-bottom: 8px;
+    }
+    .a-right-para2 {
+        font-size: 12px;
+        padding-top: 5px;
+        margin-bottom: 0;
+        letter-spacing: .4px;
+    }
+    .a-right-para3 {
+        font-size: 12px;
+        letter-spacing: .4px;
+    }
+    .a-right-head2 {
+        font-size: 21px;
+        line-height: 1;
+    }
+    .s-body-head1 {
+        font-size: 30px;
+        padding: 0 20px;
+        letter-spacing: .5px;
+    }
+    .srv-cards-body-elementor {
+        margin-top: 20px;
+    }
+}
+
+@media screen and (max-width: 465px) {
+    .ab-hero-img {
+        width: 380px;
+        height: 520px;
+    }
+    .spc-widget-img {
+        width: 340px;
+        height: 380px;
+    }
+    .spc-widget-img2 {
+        width: 340px;
+        height: 380px;
+    }
+    .spc-widget-img3 {
+        width: 340px;
+        height: 380px;
+    }
+    .s-card-head {
+        font-size: 27px;
+    }
+    .s-card-para {
+        font-size: 13px;
+    }
+    .service-pg-card {
+        padding: 28px 0;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .heding-elementor p {
+        font-size: 15px;
+    }
+    .hero-btn {
+        font-size: 14px;
+        padding: 10px 18px;
+    }
+    .hero-section {
+        height: 650px;
+    }
+    .logo {
+        height: 55px;
+        width: 140px;
+    }
+    .logo-elementor {
+        width: 80%;
+    }
+    .srv-element-head {
+        font-size: 26px;
+    }
+    .srv-widget {
+        font-size: 50px;
+    }
+    .s-box-elementor {
+        padding: 15px;
+    }
+    .services-elementor {
+        display: flex;
+        align-items: flex-start;
+    }
+    .srv-element-para {
+        font-size: 13px;
+    }
+    .heding-elementor p {
+        padding: 0 15px;
+    }
+    .contact-email-elementor {
+        display: block;
+    }
+    .top-contact-element {
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+    .email-element {
+        padding: 8px 0 0 0;
+    }
+    .top-element i {
+        font-size: 15px;
+    }
+    .top-element {
+        font-size: 13px;
+    }
+    .email-element {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .flex-top-bar {
+        display: block;
+    }
+    .social-links {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-top: 5px;
+    }
+    .email-element {
+        padding-top: 5px;
+    }
+    .why-head {
+        font-size: 28px;
+    }
+    .h-who-we-are {
+        font-size: 10px;
+    }
+    .about-p {
+        font-size: 14px;
+    }
+    .kp-li i {
+        font-size: 14px;
+    }
+    .kp-li span {
+        font-size: 14px;
+        padding-left: 5px;
+    }
+    .left-elementor {
+        padding: 0 10px;
+    }
+    .more-btn {
+        padding: 8px 13px;
+        font-size: 14px;
+    }
+    .h-customers {
+        font-size: 30px;
+    }
+    .h-testimonial {
+        font-size: 12px;
+    }
+    .gallery-img {
+        height: 340px;
+    }
+    .h-gallery {
+        font-size: 32px;
+    }
+    .name-el {
+        font-size: 19px;
+    }
+    .feedback-para {
+        font-size: 13px;
+    }
+    .c-card {
+        height: 180px;
+    }
+    .card-swiper {
+        padding-bottom: 0;
+    }
+    .h-help {
+        font-size: 24px;
+    }
+    .p-hotline {
+        font-size: 12px;
+    }
+    .call-now-btn {
+        font-size: 14px;
+        padding: 8px 14px;
+    }
+    .call-now-btn i {
+        font-size: 15px;
+    }
+    .about-us-elementor {
+        padding: 45px 0;
+        padding-bottom: 30px;
+    }
+    .sc-head {
+        margin-bottom: 0;
+    }
+    .pc1-ph-img {
+        height: 100px;
+    }
+    .pc2-ph-img {
+        height: 130px;
+        width: 130px;
+    }
+    .h-gquote {
+        font-size: 22px;
+    }
+    .quote-p {
+        font-size: 16px;
+    }
+    .prc-flx {
+        gap: 5px;
+    }
+    .area-p {
+        font-size: 23px;
+        letter-spacing: 1px;
+    }
+    .h-touch {
+        font-size: 32px;
+    }
+    .ft-flex-elementor {
+        gap: 22px;
+        padding: 0 8px;
+    }
+    .h-contact {
+        font-size: 12px;
+    }
+    .name-input {
+        font-size: 15px;
+    }
+    .phone-input {
+        font-size: 15px;
+    }
+    .email-input {
+        font-size: 15px;
+    }
+    .location-input {
+        font-size: 15px;
+    }
+    #recovery {
+        font-size: 15px;
+    }
+    .delivery-input {
+        font-size: 15px;
+    }
+    .vehicle-input {
+        font-size: 15px;
+    }
+    .form-text-area textarea {
+        font-size: 15px;
+    }
+    .ft-link-li {
+        padding-top: 8px;
+    }
+    .ft-link-li a {
+        padding: 0;
+    }
+    .info-ft-inn {
+        padding: 0 6px;
+    }
+    .info-ft-contact p {
+        font-size: 13px;
+        padding-top: 8px;
+    }
+    .q-form-el {
+        padding-top: 25px;
+    }
+    .area-elementor {
+        padding: 42px 0;
+    }
+    .ft2-inn {
+        padding: 20px;
+    }
+    .copyright-line {
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .logo {
+        width: 110px;
+        height: 52px;
+    }
+    .main-head {
+        font-size: 30px;
+    }
+    .heding-elementor p {
+        font-size: 14px;
+    }
+    #menu-icon {
+        font-size: 35px;
+    }
+    .srv-element-head {
+        font-size: 23px;
+    }
+    .gallery-img {
+        height: 300px;
+    }
+    .image-elementor {
+        gap: 10px;
+    }
+    .h-customers {
+        font-size: 28px;
+    }
+    .h-testimonial {
+        font-size: 11px;
+    }
+    .emergency-elementor {
+        padding: 30px 0;
+    }
+    .h-help {
+        font-size: 20px;
+        margin-bottom: 3px;
+    }
+    .p-hotline {
+        font-size: 10px;
+    }
+    .call-now-btn {
+        font-size: 13px;
+        padding: 7px 13px;
+    }
+    .call-now-btn i {
+        font-size: 14px;
+    }
+    .p-hotline {
+        margin-bottom: 10px;
+        padding-top: 5px;
+    }
+    .call-now-elementor {
+        padding-top: 8px;
+    }
+    .about-p {
+        letter-spacing: 0;
+    }
+    .kp-li span {
+        letter-spacing: 0;
+    }
+    .all-btn {
+        padding: 8px 13px;
+        font-size: 14px;
+    }
+    .sc-widget {
+        padding: 4px 6px;
+    }
+    .sc-widget-tr {
+        padding: 10px;
+    }
+    .sc-widget i {
+        font-size: 30px;
+    }
+    .sc-widget-tr i {
+        font-size: 20px;
+    }
+    .sc-para {
+        font-size: 13px;
+    }
+    .sc-head {
+        font-size: 21px;
+    }
+    .service-container {
+        padding: 22px 8px;
+        align-items: center;
+    }
+    .sc-para {
+        text-align: center;
+        padding-top: 5px;
+    }
+    .h-offer {
+        font-size: 28px;
+    }
+    .h-services {
+        font-size: 10px;
+    }
+    .pr-head2 {
+        font-size: 23px;
+    }
+    .h-process {
+        font-size: 16px;
+    }
+    .process-elementor {
+        padding-bottom: 40px;
+    }
+    .area-p {
+        font-size: 20px;
+    }
+    .h-working {
+        font-size: 14px;
+    }
+    .area-inn {
+        padding: 0 12px;
+    }
+    .h-touch {
+        font-size: 28px;
+    }
+    .h-contact {
+        font-size: 10px;
+    }
+    .ft-flex-elementor {
+        padding: 0 5px;
+        gap: 15px;
+    }
+    .info-ft-inn {
+        padding: 5px;
+    }
+    .ft-link-li {
+        padding-top: 3px;
+        font-size: 15px;
+    }
+    .info-ft-contact p {
+        font-size: 12px;
+        padding-top: 5px;
+    }
+    .logo-info-ft {
+        width: 100px;
+    }
+    .footer {
+        padding: 30px 0;
+        padding-bottom: 0;
+    }
+    .info-ft-hs {
+        font-size: 20px;
+    }
+    .name-input {
+        font-size: 13px;
+    }
+    .phone-input {
+        font-size: 13px;
+    }
+    .email-input {
+        font-size: 13px;
+    }
+    .location-input {
+        font-size: 13px;
+    }
+    #recovery {
+        font-size: 13px;
+    }
+    .delivery-input {
+        font-size: 13px;
+    }
+    .vehicle-input {
+        font-size: 13px;
+    }
+    .quote-btn {
+        font-size: 13px;
+        padding: 6px 10px;
+    }
+    .srv-more-btn {
+        font-size: 14px;
+    }
+    .fixed-widgets {
+        padding: 8px;
+    }
+    .fw-1 {
+        right: 17px;
+        bottom: 127px;
+    }
+    .fw-2 {
+        right: 17px;
+        bottom: 189px;
+    }
+    .fw-3 {
+        right: 17px;
+        bottom: 72px;
+    }
+    .fw-4 {
+        right: 17px;
+        bottom: 17px;
+    }
+    .fw-1 i {
+        font-size: 32px;
+    }
+    .fw-2 i {
+        font-size: 20px;
+    }
+    .fw-3 i {
+        font-size: 20px;
+    }
+    .fw-4 i {
+        font-size: 20px;
+    }
+    .ab-hero-img {
+        width: 310px;
+        height: 495px;
+    }
+    .a-right-head {
+        font-size: 23px;
+        margin-top: 0;
+    }
+    .a-right-para1 {
+        font-size: 13px;
+    }
+    .a-right-para2 {
+        font-size: 12px;
+        letter-spacing: .3px;
+        padding-top: 3px;
+    }
+    .a-right-para3 {
+        font-size: 12px;
+        letter-spacing: .3px;
+        padding-top: 2px;
+    }
+    .a-right-head2 {
+        font-size: 18px;
+        margin-bottom: 5px;
+    }
+    .a-main-head {
+        font-size: 32px;
+    }
+    .a-hero-section {
+        padding: 50px 0;
+    }
+    .spc-widget-img {
+        width: 300px;
+        height: 350px;
+    }
+    .spc-widget-img2 {
+        width: 300px;
+        height: 350px;
+    }
+    .spc-widget-img3 {
+        width: 300px;
+        height: 350px;
+    }
+    .s-card-head {
+        font-size: 25px;
+    }
+    .s-card-para {
+        line-height: 1.4;
+    }
+    .cnt-now-btn {
+        font-size: 15px;
+        padding: 8px 14px;
+    }
+    .s-body-head1 {
+        font-size: 26px;
+        letter-spacing: .5px;
+    }
+    .copyright-line {
+        font-size: 11px;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .slider-container {
+        width: 290px;
+        height: 450px;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    .main-head {
+        font-size: 160%;
+    }
+    .hero-btn {
+        padding: 8px 15px;
+        font-size: 13px;
+    }
+    .email-element {
+        font-size: 13px;
+    }
+    .gallery-img {
+        height: 280px;
+    }
+    .h-gallery {
+        font-size: 26px;
+    }
+}
+
+@media screen and (max-width: 340px) {
+    .logo-elementor {
+        width: 70%;
+    }
+    .hero-section {
+        height: 700px;
+    }
+    .flex-top-bar {
+        padding: 5px;
+    }
+}
+
+@media screen and (max-width: 310px) {
+    .main-head {
+        font-size: 145%;
+    }
+    .heding-elementor p {
+        font-size: 11px;
+    }
+    .hero-section {
+        height: 580px;
+    }
+    .spc-widget-img {
+        width: 75vw;
+        height: 95vw;
+    }
+    .spc-widget-img2 {
+        width: 75vw;
+        height: 95vw;
+    }
+    .spc-widget-img3 {
+        width: 75vw;
+        height: 95vw;
+    }
+    .s-card-head {
+        font-size: 22px;
+    }
+    .s-card-para {
+        font-size: 12px;
+        margin-bottom: 5px;
+    }
+    .cnt-now-btn {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 300px) {
+    .srv-element-head {
+        font-size: 7vw;
+    }
+    .srv-widget {
+        font-size: 20vw;
+    }
+    .srv-element-para {
+        font-size: 5vw;
+    }
+    .hero-btn-elementor {
+        width: 100%;
+        height: 25px;
+    }
+    .top-element {
+        font-size: 4vw;
+    }
+    .social-links i {
+        font-size: 5vw;
+    }
+    .social-links {
+        padding-top: 2px;
+    }
+    .srv-more-btn {
+        font-size: 12px;
+    }
+    .slider-container {
+        width: 95%;
+    }
+}
+
+@media screen and (max-width: 260px) {
+    .gallery-img {
+        height: 220px;
+    }
+}
+
+@media screen and (max-width: 160px) {
+    .hero-btn {
+        display: none;
+    }
+}

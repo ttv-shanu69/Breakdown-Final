@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+:root {
+    --Sarabun: 'Sarabun';
+    --Montserrat: 'Montserrat';
+    --Poppins: 'poppins';
+    --Raleway: 'Raleway';
+    --DM-Serif: 'DM Serif Display';
+    --cnt-widget-bg: #25D366;
+    --light-grey: #e2e7e6;
+    --Sec-light-grey: #f8f7f7;
+    --White: #fff;
+    --Black: #000; 
+    --Sec-Accent-red: #b12d3a;
+    --hover-blue: rgb(24, 24, 119);
+    --primary-blue: #0D3F82;
+    --Sec-light-red: #c43543;
+    --primary-deep-blue: rgb(18, 18, 87);
+}
+.services-body-elementor {
+    padding: 100px 0;
+    padding-bottom: 60px;
+}
+.srv-body-inn {
+    width: 100%;
+    max-width: 1250px;
+    margin: 0 auto;
+}
+.srv-body-top {
+    padding-bottom: 50px;
+}
+.s-hservices {
+    animation: slideBottom .7s ease-in;
+}
+.s-body-head1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: var(--Sarabun);
+    color: var(--primary-blue);
+    letter-spacing: 1px;
+    font-weight: 700;
+    padding: 5px 0 0 0;
+    animation: slideBottom .7s ease-in;
+}
+.srv-cards-body-elementor {
+    padding: 10px 0;
+    padding-bottom: 70px;
+    background: var(--Sec-light-grey);
+    width: 100%;
+    margin-top: 50px;
+}
+.srv-cards-inn {
+    width: 100%;
+    max-width: 1250px;
+    margin: 0 auto;
+}
+.srv-card-list {
+    padding: 10px 25px;
+    padding-bottom: 0;
+}
+.service-pg-card {
+    padding: 15px;
+    max-width: 100%;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+.spc-inn {
+    display: flex;
+}
+.spc-widget-el {
+    width: 30%;
+    padding-left: 10px;
+}
+.spc-widget-img {
+    height: 360px;
+    width: 280px;
+}
+.spc-widget-img2 {
+    height: 410px;
+    width: 280px;
+    padding-left: 0;
+}
+.spc-widget-img3 {
+    height: 410px;
+    width: 280px;
+    padding-left: 10px;
+}
+.spc-content-el {
+    width: 75%;
+    padding: 30px 20px 0 10px;
+}
+.s-card-head {
+    font-family: var(--Sarabun);
+    color: var(--primary-blue);
+    letter-spacing: 1px;
+    font-weight: 650;
+    font-size: 34px;
+}
+.s-card-para {
+    font-size: 17.5px;
+    letter-spacing: .5px;
+    font-family: var(--Poppins);
+    padding: 20px 0 20px 0;
+    line-height: 1.7;
+}
+.cnt-now-btn {
+    padding: 10px 16px;
+    background: var(--Sec-Accent-red);
+    color: var(--White);
+    text-decoration: none;
+    font-family: var(--Sarabun);
+    letter-spacing: .5px;
+    border-radius: 12px;
+    font-size: 18px;
+    transition: .3s all;
+}
+.cnt-now-btn:hover {
+    background: var(--hover-blue);
+}
